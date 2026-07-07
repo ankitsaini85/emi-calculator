@@ -69,3 +69,30 @@ The application is built with a responsive and user-friendly interface, ensuring
 
 
 
+---
+
+# 🖥️ Tech Stack
+
+## Frontend
+
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Axios
+
+## Backend
+
+- Node.js
+- Express.js
+
+## Database
+
+- MongoDB
+- Mongoose
+
+---
+
+
+
