@@ -51,3 +51,21 @@ The application is built with a responsive and user-friendly interface, ensuring
 - Interest Breakdown
 
 
+### 📅 EMI Schedule
+
+- Monthly Installment Details
+- Opening Balance
+- Principal Paid
+- Interest Paid
+- Closing Balance
+
+### 🎨 UI Features
+
+- Modern Design
+- Responsive Layout
+- Interactive Forms
+- Clean Dashboard
+- Mobile Friendly
+
+
+
