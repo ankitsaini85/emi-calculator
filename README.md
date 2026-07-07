@@ -18,3 +18,17 @@
 
 ---  
 
+# 📌 Overview
+
+The **EMI Calculator** is a full-stack MERN application that simplifies loan repayment calculations. Users can enter the loan amount, annual interest rate, and loan duration, and the system instantly computes:
+
+- Monthly EMI
+- Total Interest Payable
+- Total Amount Payable
+- Monthly Payment Schedule
+
+The application is built with a responsive and user-friendly interface, ensuring a seamless experience across desktop, tablet, and mobile devices.
+
+---
+
+
