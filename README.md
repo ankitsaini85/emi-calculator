@@ -32,3 +32,22 @@ The application is built with a responsive and user-friendly interface, ensuring
 ---
 
 
+# ✨ Features
+
+### 💳 Loan Calculation
+
+- Enter Loan Amount
+- Enter Annual Interest Rate
+- Select Loan Duration
+- Support for Months and Years
+- Real-time EMI Calculation
+
+### 📊 Results
+
+- Monthly EMI
+- Total Interest
+- Total Payment
+- Principal Amount
+- Interest Breakdown
+
+
