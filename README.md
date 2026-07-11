@@ -234,3 +234,16 @@ EMI = --------------------------------
 
 
 
+# 📱 Responsive Design
+
+Supports
+
+- 💻 Desktop
+- 💼 Laptop
+- 📱 Mobile
+- 📲 Tablet
+
+---
+
+
+
