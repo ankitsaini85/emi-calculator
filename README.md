@@ -174,3 +174,22 @@ MONGODB_URI=your_mongodb_connection_string
 ---
 
 
+## Run Backend
+
+```bash
+cd server
+npm run dev
+```
+
+---
+
+## Run Frontend
+
+```bash
+cd client
+npm run dev
+```
+
+---
+
+
