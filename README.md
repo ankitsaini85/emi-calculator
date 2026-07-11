@@ -247,3 +247,18 @@ Supports
 
 
 
+# 🚀 Future Enhancements
+
+- 📊 Pie Chart Visualization
+- 📈 Loan Comparison
+- 📄 PDF Download
+- 📅 Printable EMI Schedule
+- 💾 Save Calculation History
+- 👤 User Authentication
+- ☁️ Cloud Database Storage
+- 🌙 Dark Mode
+- 💱 Multi-Currency Support
+
+---
+
+
