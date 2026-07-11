@@ -161,3 +161,16 @@ npm install
 ---
 
 
+## Configure Environment Variables
+
+Create a **.env** file inside the **server** folder.
+
+```env
+PORT=5000
+
+MONGODB_URI=your_mongodb_connection_string
+```
+
+---
+
+
