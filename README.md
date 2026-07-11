@@ -193,3 +193,22 @@ npm run dev
 ---
 
 
+# 📐 EMI Formula
+
+```
+               P × R × (1 + R)^N
+EMI = --------------------------------
+       (1 + R)^N - 1
+```
+
+### Where
+
+| Symbol | Description |
+|---------|-------------|
+| P | Principal Loan Amount |
+| R | Monthly Interest Rate |
+| N | Loan Duration in Months |
+
+---
+
+
