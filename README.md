@@ -293,3 +293,29 @@ git push origin feature-name
 
 
 
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# 👨‍💻 Developer
+
+**Ankit Saini**
+
+**Full Stack MERN Developer**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project helpful, please give it a Star!
+
+**Made with ❤️ using the MERN Stack**
+
+</div>
