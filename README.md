@@ -95,4 +95,36 @@ The application is built with a responsive and user-friendly interface, ensuring
 ---
 
 
+# 📂 Project Structure
+
+```
+EMI-Calculator/
+│
+├── client/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   │
+│   └── package.json
+│
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── server.js
+│   └── package.json
+│
+├── README.md
+└── package.json
+```
+
+---
+
 
