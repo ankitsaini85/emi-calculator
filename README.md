@@ -212,3 +212,25 @@ EMI = --------------------------------
 ---
 
 
+# 📋 Sample Calculation
+
+### Input
+
+| Parameter | Value |
+|-----------|-------|
+| Loan Amount | ₹500,000 |
+| Interest Rate | 8.5% |
+| Duration | 5 Years |
+
+### Output
+
+| Result | Value |
+|--------|-------|
+| Monthly EMI | ₹10,258 |
+| Total Interest | ₹115,480 |
+| Total Amount | ₹615,480 |
+
+---
+
+
+
