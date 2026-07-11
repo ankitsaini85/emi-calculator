@@ -128,3 +128,17 @@ EMI-Calculator/
 ---
 
 
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/yourusername/emi-calculator.git
+```
+
+```bash
+cd emi-calculator
+```
+
+---
+
