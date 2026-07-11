@@ -142,3 +142,12 @@ cd emi-calculator
 
 ---
 
+## Install Frontend Dependencies
+
+```bash
+cd client
+npm install
+```
+
+---
+
