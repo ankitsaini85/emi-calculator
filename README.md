@@ -151,3 +151,13 @@ npm install
 
 ---
 
+## Install Backend Dependencies
+
+```bash
+cd ../server
+npm install
+```
+
+---
+
+
